@@ -1,0 +1,8 @@
+php.ini
+apache.conf
+database/
+my.cnf
+public_html/
+tmp/
+cert/
+docker-compose.yml
