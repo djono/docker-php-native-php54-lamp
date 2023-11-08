@@ -13,4 +13,4 @@ https://www.thearmchaircritic.org/tech-journals/creating-a-lamp-stack-using-dock
 5. public_html/(your exciting application files just put down here)
 
 That's it! & Good luck!
-by [Syxcenter.com](https://syxcenter.com)
+by [mazjohn.com](https://mazjohn.com)
